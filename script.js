@@ -1,7 +1,7 @@
-// const scroll = new LocomotiveScroll({
-//   el: document.querySelector('#main'),
-//   smooth: true
-// });
+const scroll = new LocomotiveScroll({
+  el: document.querySelector('#main'),
+  smooth: true
+});
 
 //hover images
 function page3animation() {
